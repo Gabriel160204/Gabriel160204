@@ -25,3 +25,4 @@
 <div> 
   <a href = "mailto:gabriel16020412@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/1035941507074641990" target="_blank" rel="external"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="external"></a>
+  <a href="https://www.linkedin.com/in/gabriel-eduardo-7337251a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
