@@ -12,9 +12,11 @@
   ![](https://komarev.com/ghpvc/?username=Gabriel160204&color=blue&style=for-the-badge&label=Visitor+count)
   
   <div style="display: inline_block">
-    <img align="center" alt="CPLUSPLUS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+    
+  <img align="center" alt="CPLUSPLUS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
- <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
+  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
+  <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
